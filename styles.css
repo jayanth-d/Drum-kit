@@ -1,0 +1,206 @@
+body{
+    background-color: #222831;
+    text-align: center;
+}
+
+h1{
+    color: #00ADB5;
+    font-size: 4rem;
+    font-family: "Sevillana",serif;
+}
+
+h3{
+    color: #00ADB5;
+    font-size: 2rem
+}
+
+p{
+    color: #EEEEEE;
+}
+
+hr{
+    border-color: #393E46;
+}
+
+a{
+    color: #EEEEEE;
+
+}
+
+a:hover{
+    color: #00ADB5;
+}
+.image{
+    width: 30%;
+}
+
+.top{
+    padding: 18.75rem;
+    position: relative;
+}
+
+.mid{
+    
+}
+
+.topCloud{
+    position: absolute;
+    top:15em;
+    right: 30em;
+}
+.bottomCloud{
+    position: absolute;
+    left: 24em;
+}
+
+
+/* foot ball page!!!*/
+.football{
+    position: relative;
+}
+.footballBody{
+    width: 50%;
+    margin: 100px auto;
+    
+}
+.RonaldoImg{
+    float: left;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-top: 100px;
+}
+
+.ronaldoBio{
+    text-align: left;
+    line-height: 1.5;
+}
+
+.hrBtwGoats{
+    clear: left;
+    border-style: dotted;
+    width: 17%;
+    border-width: 17px;
+    border-bottom: 0px;
+    margin-bottom: 70px;
+}
+
+.MessiImg{
+    position: relative;
+    float: right;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-top: 150px;
+    
+}
+
+.MessiBio{
+    text-align: left;
+    line-height: 1.5;
+}
+
+
+/* formula one page!!!*/
+
+.FormulaOne{
+    position: relative;
+}
+
+.FormulaBody{
+    width: 50%;
+    margin: 100px auto;
+}
+
+.HamiltonImg{
+    float: left;
+    margin-bottom: 170px;
+    margin-right: 50px;
+    margin-top: 180px;
+}
+
+.hamBio{
+    text-align: left;
+    margin-bottom: 75px;
+    line-height: 1.5;
+}
+
+.SebImg{
+    position: relative;
+    float: right;
+    margin-bottom: 180px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+.sebBio{
+    text-align: left;
+    line-height: 1.5;
+}
+
+/* basketBall page!!!*/
+
+.basketball{
+    position: relative;
+}
+
+.basketballBody{
+    width: 50%;
+    margin: 100px auto;
+}
+
+.KobeImg{
+    float: left;
+    margin-bottom: 170px;
+    margin-right: 50px;
+    margin-top: 130px;
+}
+
+.kobeBio{
+    text-align: left;
+    margin-bottom: 75px;
+    line-height: 1.5;
+}
+
+.LebronImg{
+    float: right;
+    margin-bottom: 180px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.lebronBio{
+    text-align: left;
+    line-height: 1.5;
+}
+
+/* tennis page!!!*/
+
+.tennisBody{
+    width: 50%;
+    margin: 100px auto;
+}
+
+.nadalImg{
+    float: left;
+    margin-bottom: 170px;
+    margin-right: 50px;
+    margin-top: 165px;
+}
+
+.nadalBio{
+    text-align: left;
+    margin-bottom: 75px;
+    line-height: 1.5;
+}
+
+.rogerImg{
+    float: right;
+    margin-bottom: 180px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+.rogerBio{
+    text-align: left;
+    line-height: 1.5;
+}
+
+
